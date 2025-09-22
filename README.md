@@ -1,5 +1,5 @@
 # [viscomp2025](https://cvg.ethz.ch/lectures/Visual-Computing/)
-Github repository for the Visual Computing course 2024 at ETH Zurich.
+Github repository for the Visual Computing course 2025 at ETH Zurich.
 
 ## Requirements for the Vision Part:
 - [Python 3](https://www.python.org/downloads/).
